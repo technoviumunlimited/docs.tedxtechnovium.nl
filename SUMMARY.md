@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welkom bij TEDxTechnovium Documentatie](README.md)
-* [Contact en Samenwerking](contact-en-samenwerking.md)
-* [TEDxTechnovium Algemeen](tedxtechnovium-algemeen.md)
+* [Contact en Samenwerking](tedxtechnovium-algemeen/todo-en-website.md)
+* [TEDxTechnovium Algemeen](tedxtechnovium-algemeen/README.md)
 * [Info Docenten](info-docenten/README.md)
   * [Team metaal-, elektro- en installatietechniek ROC Nijmegen](info-docenten/team-metaal-elektro-en-installatietechniek-roc-nijmegen.md)
   * [Team Bouw & Infra ROC Nijmegen](info-docenten/team-bouw-and-infra-roc-nijmegen.md)
