@@ -12,7 +12,6 @@
   * [Presentatie- en communicatievaardigheden geïntegreerd](info-docenten/presentatie-en-communicatievaardigheden-geintegreerd.md)
 * [Info Studenten](info-studenten/README.md)
   * [Voorbereiding en Deelname aan TEDxTechnovium](info-studenten/voorbereiding-en-deelname-aan-tedxtechnovium.md)
-* [Info Sprekers](info-sprekers/README.md)
-  * [Inspiratie](info-sprekers/inspiratie.md)
+* [Info Sprekers](info-sprekers.md)
 * [Ruimte-inrichting voor TEDxTechnovium](ruimte-inrichting-voor-tedxtechnovium.md)
 * [Betrokkenheid van Bedrijven en Partnerinstellingen](betrokkenheid-van-bedrijven-en-partnerinstellingen.md)
