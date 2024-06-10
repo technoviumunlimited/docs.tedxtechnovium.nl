@@ -8,6 +8,8 @@ description: >-
 
 Deze documentatie biedt een uitgebreid overzicht van ons initiatief en hoe u kunt deelnemen, bijdragen en profiteren van alles wat TEDxTechnovium te bieden heeft.
 
+[https://www.youtube.com/watch?v=JIZ2BgKL0Us](https://www.youtube.com/watch?v=JIZ2BgKL0Us\&ab\_channel=EmolioDavorRadic)&#x20;
+
 ### Voor Studenten
 
 Als student vindt je hier alle informatie die je nodig heeft om deel te nemen aan TEDxTechnovium. Ontdek hoe je uw projecten kunt presenteren en uw presentatievaardigheden kunt verbeteren in een professionele setting. Dit is uw kans om te schitteren en uw passie met anderen te delen.
