@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welkom bij TEDxTechnovium Documentatie](README.md)
-* [Elke eerste maandag in maand](elke-eerste-maandag-in-maand.md)
+* [Elke eerste maandag van de maand.](elke-eerste-maandag-van-de-maand..md)
 * [Contact en Samenwerking](tedxtechnovium-algemeen/todo-en-website.md)
 * [TEDxTechnovium Algemeen](tedxtechnovium-algemeen/README.md)
 * [Info Docenten](info-docenten/README.md)
