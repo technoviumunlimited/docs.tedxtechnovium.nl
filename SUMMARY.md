@@ -4,6 +4,7 @@
 * [Elke eerste maandag van de maand.](elke-eerste-maandag-van-de-maand..md)
 * [Contact en Samenwerking](tedxtechnovium-algemeen/todo-en-website.md)
 * [Info Docenten](info-docenten/README.md)
+  * [Presentatie](info-docenten/presentatie.md)
   * [Team metaal-, elektro- en installatietechniek ROC Nijmegen](info-docenten/team-metaal-elektro-en-installatietechniek-roc-nijmegen.md)
   * [Team Bouw & Infra ROC Nijmegen](info-docenten/team-bouw-and-infra-roc-nijmegen.md)
   * [Team Media Vormgeving ROC Nijmegen](info-docenten/team-media-vormgeving-roc-nijmegen.md)
