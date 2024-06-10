@@ -3,7 +3,6 @@
 * [Welkom bij TEDxTechnovium Documentatie](README.md)
 * [Elke eerste maandag van de maand.](elke-eerste-maandag-van-de-maand..md)
 * [Contact en Samenwerking](tedxtechnovium-algemeen/todo-en-website.md)
-* [TEDxTechnovium Algemeen](tedxtechnovium-algemeen/README.md)
 * [Info Docenten](info-docenten/README.md)
   * [Team metaal-, elektro- en installatietechniek ROC Nijmegen](info-docenten/team-metaal-elektro-en-installatietechniek-roc-nijmegen.md)
   * [Team Bouw & Infra ROC Nijmegen](info-docenten/team-bouw-and-infra-roc-nijmegen.md)
@@ -16,3 +15,4 @@
 * [Info Sprekers](info-sprekers.md)
 * [Ruimte-inrichting voor TEDxTechnovium](ruimte-inrichting-voor-tedxtechnovium.md)
 * [Betrokkenheid van Bedrijven en Partnerinstellingen](betrokkenheid-van-bedrijven-en-partnerinstellingen.md)
+* [TEDxTechnovium Algemeen](tedxtechnovium-algemeen/README.md)
