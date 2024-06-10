@@ -4,8 +4,6 @@ description: Explore ICT met TEDx
 
 # Team ICT ROC Nijmegen
 
-#### ICT
-
 1. **Cybersecurity in the Modern World**: The importance of cybersecurity and how to protect against evolving threats.
 2. **Artificial Intelligence and Machine Learning**: Applications of AI in various industries and the future of machine learning.
 3. **Blockchain Beyond Cryptocurrency**: Exploring the potential of blockchain technology in different sectors such as healthcare and supply chain management.

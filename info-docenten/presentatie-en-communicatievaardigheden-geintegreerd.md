@@ -1,8 +1,8 @@
 ---
 description: >-
-  Doel: Het doel van TEDxTechnovium is om studenten van de opleiding Software
-  Development te helpen hun presentatie- en communicatievaardigheden te
-  ontwikkelen in een veilige en professionele setting.
+  Een van de doelen van TEDxTechnovium is om studenten van de opleidingen te
+  helpen hun presentatie- en communicatievaardigheden te ontwikkelen in een
+  veilige en professionele setting.
 ---
 
 # Presentatie- en communicatievaardigheden geïntegreerd
@@ -11,7 +11,7 @@ description: >-
 
 Dit initiatief biedt een platform waar studenten hun projecten kunnen presenteren, vergelijkbaar met een echte TEDx ervaring, en waar alles wordt opgenomen voor latere evaluatie en reflectie.\
 \
-**Koppeling aan Werkprocessen:**
+**Koppeling aan Werkprocessen (Software Development):**
 
 1. **Analyseren en Adviseren (Werkproces 1.1)**
    * **Presentatievaardigheden:** Tijdens TEDxTechnovium kunnen studenten hun analyse- en adviesvaardigheden presenteren door middel van casestudies en projectresultaten. Dit versterkt hun vermogen om complexe informatie duidelijk en beknopt over te brengen.
