@@ -8,7 +8,7 @@ description: >-
 
 Deze documentatie biedt een uitgebreid overzicht van ons initiatief en hoe u kunt deelnemen, bijdragen en profiteren van alles wat TEDxTechnovium te bieden heeft.
 
-[https://www.youtube.com/watch?v=JIZ2BgKL0Us](https://www.youtube.com/watch?v=JIZ2BgKL0Us\&ab\_channel=EmolioDavorRadic)&#x20;
+{% embed url="https://www.youtube.com/watch?v=JIZ2BgKL0Us" %}
 
 ### Voor Studenten
 
