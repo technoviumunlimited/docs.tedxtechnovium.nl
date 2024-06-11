@@ -1,4 +1,4 @@
-# Digitale portifolio
+# Digitale Portfolio
 
 Een digitaal portfolio helpt studenten om hun werk professioneel te presenteren. Hier is hoe je dit kunt doen, met een focus op TEDx opnames:
 

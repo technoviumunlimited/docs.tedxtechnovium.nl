@@ -11,7 +11,7 @@
     * [Team Media Vormgeving ROC Nijmegen](info-docenten/presentatie-aan-de-teams/team-media-vormgeving-roc-nijmegen.md)
     * [Team Theis ROC Nijmegen](info-docenten/presentatie-aan-de-teams/team-theis-roc-nijmegen.md)
   * [Presentatie- en communicatievaardigheden geïntegreerd](info-docenten/presentatie-en-communicatievaardigheden-geintegreerd.md)
-  * [Digitale portifolio](info-docenten/digitale-portifolio.md)
+  * [Digitale Portfolio](info-docenten/digitale-portfolio.md)
 * [Info Studenten](info-studenten/README.md)
   * [Bezoek een TEDxTechnovium](info-studenten/bezoek-een-tedxtechnovium.md)
   * [Oefen voor je eigen TEDxTechnovium](info-studenten/oefen-voor-je-eigen-tedxtechnovium.md)
