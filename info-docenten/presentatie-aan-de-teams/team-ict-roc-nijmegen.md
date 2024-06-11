@@ -4,7 +4,7 @@ description: Explore ICT met TEDx
 
 # Team ICT ROC Nijmegen
 
-TODO: Studenten die maatwerk hebben kunnen bedrijfspresentatie doen
+TODO: Studenten die maatwerk hebben kunnen bedrijfspresentatie voor de 1ste jaars doen, zodat eerste jaars kunnen volgen (ter voorbereiding van eigen presentatie)
 
 1. **Cybersecurity in the Modern World**: The importance of cybersecurity and how to protect against evolving threats.
 2. **Artificial Intelligence and Machine Learning**: Applications of AI in various industries and the future of machine learning.
