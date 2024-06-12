@@ -17,6 +17,7 @@
   * [Oefen voor je eigen TEDxTechnovium](info-studenten/oefen-voor-je-eigen-tedxtechnovium.md)
   * [Voorbereiding van je eigen TEDxTechnovium](info-studenten/voorbereiding-van-je-eigen-tedxtechnovium.md)
   * [Je eigen TEDxTechnovium uitvoeren](info-studenten/je-eigen-tedxtechnovium-uitvoeren.md)
+  * [Hoe lang duurt TEDx talk](info-studenten/hoe-lang-duurt-tedx-talk.md)
 * [Info Sprekers](info-sprekers.md)
 * [Ruimte-inrichting voor TEDxTechnovium](ruimte-inrichting-voor-tedxtechnovium.md)
 * [Betrokkenheid van Bedrijven en Partnerinstellingen](betrokkenheid-van-bedrijven-en-partnerinstellingen.md)
