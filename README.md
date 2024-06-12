@@ -20,7 +20,7 @@ Docenten kunnen hier richtlijnen vinden om hun studenten te begeleiden en onders
 
 ### Voor Sprekers
 
-Voor onze sprekers bieden we gedetailleerde informatie over het aanmeldingsproces, de voorbereiding en de uitvoering van een TEDx talk. Of je nu een professional uit het bedrijfsleven, een academicus of een student bent, hier vindt u alles wat je nodig heeft om een inspirerende presentatie te geven. [Zie meer info voor de sprekers](info-sprekers.md).
+Voor onze sprekers bieden we gedetailleerde informatie over het aanmeldingsproces, de voorbereiding en de uitvoering van een TEDx talk. Of je nu een professional uit het bedrijfsleven, een academicus of een student bent, hier vindt u alles wat je nodig heeft om een inspirerende presentatie te geven. [Zie meer info voor de sprekers](info-sprekers/).
 
 ### Voor Radboud Universiteit en HAN
 
