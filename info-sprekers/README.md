@@ -1,5 +1,7 @@
 # Info Sprekers
 
+Heb je ideeen wie je zou willen uitnodigen gebruik het volgende link: https://forms.office.com/e/w4erDWM8Y1?origin=lprLink&#x20;
+
 ## Selectie van Sprekers en Thema's
 
 Een cruciaal onderdeel van de TEDx show op ROC Nijmegen is de selectie van sprekers en thema's. Het doel is om een divers en inspirerend programma te creëren dat aansluit bij de brede scala aan opleidingen die binnen het Technovium-gebouw worden aangeboden. Dit varieert van softwareontwikkeling tot bouwkunde, en van elektrotechniek tot media design. Hieronder volgt een plan voor de selectie van sprekers en de thematische indeling van de shows:
@@ -42,5 +44,7 @@ Het is belangrijk om een diverse groep sprekers te selecteren die verschillende 
 
 
 ### Ideeen en stemmen op uitnodiging van de sprekers
+
+[https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)&#x20;
 
 TODO: website waar studenten en studenten kunnen stemmen, microsoft (ROC Nijmegen) of google forms.s

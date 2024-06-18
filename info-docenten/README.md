@@ -7,3 +7,5 @@ Jullie, onze gewaardeerde docenten en studenten, vormen het kloppende hart van o
 Daarom nodig ik jullie uit om met ons mee te denken en ideeën aan te dragen voor mogelijke sprekers. Misschien is er een collega-docent wiens baanbrekend onderzoek het verdient om in de schijnwerpers te staan, of misschien ken je een student die een uniek project heeft voltooid dat het delen waard is. Of misschien heb je zelf een inspirerend verhaal te vertellen dat anderen kan inspireren.
 
 Samen kunnen we een programma samenstellen dat niet alleen boeiend en leerzaam is, maar dat ook de rijkdom aan kennis en talenten binnen onze gemeenschap weerspiegelt. Dus laat je creativiteit de vrije loop en deel je ideeën met ons. Samen kunnen we van ons TEDx-evenement een onvergetelijke ervaring maken!
+
+Heb je idee die je wilt delen: [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)
