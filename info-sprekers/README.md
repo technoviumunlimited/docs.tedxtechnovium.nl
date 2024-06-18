@@ -1,6 +1,6 @@
 # Info Sprekers
 
-Heb je ideeen wie je zou willen uitnodigen gebruik het volgende link: [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink) &#x20;
+Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink) &#x20;
 
 ## Selectie van Sprekers en Thema's
 
