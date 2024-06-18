@@ -1,5 +1,7 @@
 # Info Docenten
 
+Heb je idee die je wilt delen: [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)
+
 Als organisator van het aankomende TEDx-evenement voor ROC Nijmegen, sta ik vol bewondering voor de innovatie en expertise die onze schoolgemeenschap te bieden heeft, met name op het gebied van techniek. We zijn op zoek naar inspirerende sprekers die hun kennis willen delen, hun ervaringen willen delen en ons kunnen prikkelen met nieuwe inzichten tijdens ons evenement.
 
 Jullie, onze gewaardeerde docenten en studenten, vormen het kloppende hart van onze technische gemeenschap. Jullie dagelijkse betrokkenheid bij vakgebieden als [ICT](presentatie-aan-de-teams/team-ict-roc-nijmegen.md), [elektrotechniek](presentatie-aan-de-teams/team-metaal-elektro-en-installatietechniek-roc-nijmegen.md), [werktuigbouwkunde](presentatie-aan-de-teams/team-metaal-elektro-en-installatietechniek-roc-nijmegen.md), [bouwkunde](presentatie-aan-de-teams/team-bouw-and-infra-roc-nijmegen.md), [media & vormgeving](presentatie-aan-de-teams/team-media-vormgeving-roc-nijmegen.md) en meer, biedt een schat aan expertise en perspectieven die het waard zijn om te delen.
