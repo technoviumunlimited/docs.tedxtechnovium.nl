@@ -24,3 +24,4 @@
 * [Ruimte-inrichting voor TEDxTechnovium](ruimte-inrichting-voor-tedxtechnovium.md)
 * [Betrokkenheid van Bedrijven en Partnerinstellingen](betrokkenheid-van-bedrijven-en-partnerinstellingen.md)
 * [TEDxTechnovium Algemeen](tedxtechnovium-algemeen/README.md)
+* [Presentaties ROC Nijmegen](presentaties-roc-nijmegen.md)
