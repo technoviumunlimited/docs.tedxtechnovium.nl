@@ -1,6 +1,6 @@
 # Info Sprekers
 
-Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink) &#x20;
+Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)  of wil je liever een email sturen: d.radic@roc-nijmegen.nl&#x20;
 
 ## Selectie van Sprekers en Thema's
 
@@ -45,6 +45,6 @@ Het is belangrijk om een diverse groep sprekers te selecteren die verschillende 
 
 ### Ideeen en stemmen op uitnodiging van de sprekers
 
-[https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)&#x20;
+[https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink) of wil je liever een email sturen: d.radic@roc-nijmegen.nl&#x20;
 
 TODO: website waar studenten en studenten kunnen stemmen, microsoft (ROC Nijmegen) of google forms.s

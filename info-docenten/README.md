@@ -1,6 +1,6 @@
 # Info Docenten
 
-Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)
+Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink) of wil je liever een email sturen: d.radic@roc-nijmegen.nl&#x20;
 
 Als organisator van het aankomende TEDx-evenement voor ROC Nijmegen, sta ik vol bewondering voor de innovatie en expertise die onze schoolgemeenschap te bieden heeft, met name op het gebied van techniek. We zijn op zoek naar inspirerende sprekers die hun kennis willen delen, hun ervaringen willen delen en ons kunnen prikkelen met nieuwe inzichten tijdens ons evenement.
 
@@ -10,4 +10,4 @@ Daarom nodig ik jullie uit om met ons mee te denken en ideeën aan te dragen voo
 
 Samen kunnen we een programma samenstellen dat niet alleen boeiend en leerzaam is, maar dat ook de rijkdom aan kennis en talenten binnen onze gemeenschap weerspiegelt. Dus laat je creativiteit de vrije loop en deel je ideeën met ons. Samen kunnen we van ons TEDx-evenement een onvergetelijke ervaring maken!
 
-Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink)
+Heb je een idee dat je wilt delen? -> [https://forms.office.com/e/w4erDWM8Y1?origin=lprLink](https://forms.office.com/e/w4erDWM8Y1?origin=lprLink) of wil je liever een email sturen: d.radic@roc-nijmegen.nl&#x20;
