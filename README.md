@@ -1,10 +1,10 @@
 ---
-description: >-
-  Welkom bij TEDxTechnovium, waar innovatie en inspiratie samenkomen!
-  https://tedxtechnovium.nl/ -> in ontwikkeling!
+description: Welkom bij TEDxTechnovium, waar innovatie en inspiratie samenkomen!
 ---
 
 # Welkom bij TEDxTechnovium Documentatie
+
+[https://tedxtechnovium.nl/](https://tedxtechnovium.nl/)&#x20;
 
 Deze documentatie biedt een uitgebreid overzicht van ons initiatief en hoe u kunt deelnemen, bijdragen en profiteren van alles wat TEDxTechnovium te bieden heeft.
 
