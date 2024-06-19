@@ -24,3 +24,5 @@ Dit initiatief biedt een platform waar studenten hun projecten kunnen presentere
    * **Verbetering:** Docenten kunnen de opnames gebruiken om de beheervaardigheden van studenten te evalueren en hen te begeleiden in het verbeteren van deze vaardigheden.
 
 **Veilige en Professionele Setting:** TEDxTechnovium biedt een gecontroleerde omgeving waar studenten zich comfortabel voelen om te experimenteren en fouten te maken. Dit is essentieel voor hun leerproces en helpt hen om zelfverzekerd te worden in hun presentatievaardigheden.
+
+**BeeldCoaching**: TODO -> eigen kopje -> link&#x20;
